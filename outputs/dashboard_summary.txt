@@ -1,0 +1,5 @@
+Dashboard summary
+Rows in data: 42
+Daily totals rows: 14
+Weekly totals rows: 3
+Weekly building avg rows: 9

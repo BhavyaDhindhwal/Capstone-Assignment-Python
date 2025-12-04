@@ -1,0 +1,5 @@
+Project summary
+Rows in cleaned data: 42
+Buildings: 3
+Daily periods: 14
+Weekly periods: 3
